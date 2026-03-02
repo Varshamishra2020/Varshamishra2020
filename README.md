@@ -42,12 +42,16 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Otters hold hands while sleeping to keep from drifting apart! 🦦🦦
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshamishra2020&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varshamishra2020&show_icons=true&locale=en&layout=compact" alt="Varshamishra2020" /></p>
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamishra2020&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varshamishra2020&show_icons=true&locale=en" alt="Varshamishra2020" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamishra2020&" alt="Varshamishra2020" /></p>
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Varshamishra2020" alt="Contribution Calendar" width="100%"/>
 
 ## ☕ Support My Work
 
