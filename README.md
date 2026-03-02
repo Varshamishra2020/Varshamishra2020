@@ -12,7 +12,6 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 <p align="center">
   <img src="https://img.shields.io/github/stars/Varshamishra2020?style=for-the-badge&color=fedcba&label=Stars&logo=github" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/Varshamishra2020?style=for-the-badge&color=8A2BE2&label=Followers&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/repos/Varshamishra2020?style=for-the-badge&color=4169E1&label=Repositories&logo=github" alt="GitHub Repositories"/>
 </p>
 
   
