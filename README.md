@@ -10,11 +10,9 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Varshamishra2020&label=Profile%20views&color=0e75b6&style=flat" alt="Varshamishra2020" /> </p>
 
-<p align="left"> 
+ 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Varshamishra2020&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  </a> 
-</p>
-<div align="center">
+
   
 ## About Me
 
