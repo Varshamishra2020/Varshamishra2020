@@ -1,7 +1,6 @@
-
 </div>
 <div align="center">
-<img src="https://github.com/Varshamishra56/Varshamishra56/blob/main/images/preview.gif">
+<img src="https://github.com/Varshamishra2020/Varshamishra2020/blob/main/images/preview.gif">
 </div>
 </p>
 
@@ -9,9 +8,9 @@
 
 I am a passionate developer based in India, currently pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence at Gurugram University. With a keen interest in programming and open-source projects, I aspire to deepen my understanding of programming languages, algorithms, and data structures
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshamishra56&label=Profile%20views&color=0e75b6&style=flat" alt="varshamishra56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Varshamishra2020&label=Profile%20views&color=0e75b6&style=flat" alt="Varshamishra2020" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshamishra2020" alt="varshamishra56" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Varshamishra2020" alt="Varshamishra2020" /></a> </p>
 <div align="center">
   
 ## About Me
@@ -42,10 +41,10 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Otters hold hands while sleeping to keep from drifting apart! 🦦🦦
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshamishra56&show_icons=true&locale=en&layout=compact" alt="varshamishra56" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Varshamishra2020&show_icons=true&locale=en&layout=compact" alt="Varshamishra2020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshamishra56&show_icons=true&locale=en" alt="varshamishra56" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varshamishra2020&show_icons=true&locale=en" alt="Varshamishra2020" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshamishra56&" alt="varshamishra56" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamishra2020&" alt="Varshamishra2020" /></p>
 
 </div>
